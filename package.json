@@ -1,0 +1,21 @@
+{
+  "name": "cron-router",
+  "version": "1.0.0",
+  "description": "A simple express middleware to route traffic based on server time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "non yet"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "time",
+    "router"
+  ],
+  "author": "Benjamin Forster",
+  "license": "ISC"
+}
