@@ -12,7 +12,7 @@ Match object should look like this:
 
 ```js
 var match = {
-	match: { /*
+	match: {
 		year: /* optional, number or {from: number, to: number } */
 		month: /* optional, number or {from: number, to: number } */
 		date: /* optional, number or {from: number, to: number } */
